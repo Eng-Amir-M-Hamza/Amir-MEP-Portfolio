@@ -1,0 +1,7 @@
+<!-- Duplicate this block once per mechanical project, paste inside the .grid div in the #cases section of index.html, and delete my 2 placeholder cards -->
+
+<div class="card" data-cat="mechanical" onclick="openProject('projects/mech-PROJECTSLUG.html')">
+<span class="tag-chip tag-mech">Mechanical</span>
+<h3>PROJECT DISPLAY NAME</h3>
+<p>Short one-line description of the project.</p>
+</div>
